@@ -1,0 +1,8 @@
+### project
+.mvn/
+target/
+logs/
+download/
+
+### IntelliJ IDEA ###
+.idea/
