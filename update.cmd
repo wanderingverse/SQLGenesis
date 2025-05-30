@@ -1,4 +1,3 @@
-@echo off
 chcp 65001
 
 git config user.name "wanderingverse"
